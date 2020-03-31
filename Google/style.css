@@ -1,0 +1,13 @@
+body
+{
+  text-align: center;
+  margin-top: 300px;
+  font-family: Arial, sans-serif;
+}
+#bouton
+{
+  margin: 20px 5px;
+  padding: 7px 12px;
+  border-radius: 4px;
+  color: lightgrey;
+}
